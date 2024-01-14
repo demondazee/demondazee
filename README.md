@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m bry<br>👀 I’m interested in Fullstack Web Development<br>🌱 I’m currently developing & learning more about Backend Development  with C#'s .NET Core<br>💞️ I’m looking to collaborate on making web applications<br>📫 How to reach me? Contact me at mafty.erin01@gmail.com
+👋 Hi, I’m bry<br>👀 I’m a Fullstack Software Engineer<br>📫 How to reach me? Contact me at mafty.erin01@gmail.com
 
 
 # 💻 Tech Stack:
